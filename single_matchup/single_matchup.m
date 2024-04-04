@@ -21,9 +21,8 @@ region = {"PC"};r = 1;
 addpath(genpath('~/your/folders/subm_variance_spectra/functions'));
 cd("~/your/folders/subm_variance_spectra/single_matchup")
 
-
-addpath(genpath('~/Library/Mobile Documents/com~apple~CloudDocs/Documents/6_Nick_Project/Tools'));
-cd("/Users/lukecarberry/Documents/6_Nick_Project/Projects/LS_timeseries/manuscript/subm_variance_spectra/single_matchup")
+% addpath(genpath('~/Library/Mobile Documents/com~apple~CloudDocs/Documents/6_Nick_Project/Tools'));
+% cd("/Users/lukecarberry/Documents/6_Nick_Project/Projects/LS_timeseries/manuscript/subm_variance_spectra/single_matchup")
 
 files = dir('*.nc');
 fname = files(1).name(1:13);
