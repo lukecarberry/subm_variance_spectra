@@ -1,5 +1,5 @@
 # subm_variance_spectra
-Code and list of matchup images to compare spatial variance spectra between Landsat and MODIS Chl and SST imagery.
+Code and list of matchup images to compare spatial variance spectra between Landsat and MODIS Chl and SST imagery, from "Effect of Satellite Spatial Resolution on Submesoscale Variance in Ocean Color and Temperature" 
 
 The folder /single_matchup/ and script single_matchup.m shows how I produced Figures 1 and 2 from the manuscript, and supplies the imagery data. 
 
